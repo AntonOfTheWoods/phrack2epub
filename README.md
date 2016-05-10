@@ -6,10 +6,12 @@ You should be able to then read them on your favourite ereader, though YMMV. At 
 
 ## Installation
 Simply install required imports via pip (or similar), probably in a virtualenv
+
 pip install -r requirements.txt
 
 ## Generation
 Simply run
+
 $ python phrack.py [first-issue-number] [last-issue-number]
 
 All the epubs will be generated in the script directory
